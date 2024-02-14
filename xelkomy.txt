@@ -1,0 +1,28 @@
+<span id="a">xelkomy@root</span>:<span id="b">~</span><span id="c">$</span> cat xelkomy.txt<br/><br/>
+Hi, my name is Khaled Mohamed.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I'm an Bug hunter | Security Researcher at Hackerone , Detectify and Bugcrowd</p>
+<!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
+<p>I love the work in Cyber Security Field and Like to help in public projects at Github</p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
+<p>My Hall of Fame</p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
+<ul style="list-style-type:circle">
+  <li>Hackerone account    : <a href="https://hackerone.com/0xelkomy">First is my account on Hackerone has more than 30 programs I take at the hall of fame. Some from this programs are the paypal and IBM and Ford and DOD ,Adobe and ..etc</a></li>
+  <li>HCL-Program     : <a href="https://hackerone.com/hcl_software/thanks?type=team">Top hacker at HCL Program</a></li>
+  <li>Google      : <a href="https://bughunter.withgoogle.com/profile/fe9cc89a-0402-42b8-91fe-accc0e43681f">Google Whitehat List</a></li>
+  <li>Bugcrowd      : <a href="https://bugcrowd.com/xelkomy">Bugcrowd Account</a></li>
+  <li>Telekom       : <a href="https://www.telekom.com/en/corporate-responsibility/data-protection-data-security/security/details/acknowledgements-358300">Telekom Hall Of fame</a></li>
+  <li>Huawei   : <a href="Huawei.jpg">Huawei HALL OF FAME</a></li>
+  <li>Avast  : <a href="avast.pdf">Avast HALL OF FAME</a></li>
+  <li>Liferay       : <a href="https://portal.liferay.dev/people/hall-of-fame/security-reporters">Liferay HALL OF FAME</a></li>
+
+</ul>
+<!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
+If you would like to get in touch with me, whether it be for tech support, a professional work, or to just say hi<!-- slightdelayhere-->, feel free to send me an email.<!-- longlongcomment --> 
+
+
+@Email : <a href="mailto:khaled.mohamed@xelkomy.com">khaled.mohamed@xelkomy.com</a>
+<!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
+Twitter: <a href="https://twitter.com/0xElkomy">@0xElkomy</a>
+<p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
+Linkedin: <a href="https://www.linkedin.com/in/xelkomy">Khaled Mohamed</a>
+<p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
+Regards .
+</p>
